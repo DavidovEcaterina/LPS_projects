@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1653868868 source:c:\users\user\desktop\lps-main\pr05davidovecaterina\main.cpp
+	<iostream>
+	<iomanip>
+	<string.h>
+	<cstdlib>
+	<cstdio>
+	<stdio.h>
+	<fstream>
+	<conio.h>
+
